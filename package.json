@@ -1,0 +1,27 @@
+{
+  "name": "drawille-spark",
+  "version": "0.0.0",
+  "description": "Sparkline clone using drawille",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/madbence/node-drawille-spark"
+  },
+  "bin": {
+    "spark": "./bin/spark"
+  },
+  "keywords": [
+    "spark",
+    "drawille",
+    "graph"
+  ],
+  "author": "Bence Dányi <bence@danyi.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/madbence/node-drawille-spark/issues"
+  },
+  "homepage": "https://github.com/madbence/node-drawille-spark",
+  "dependencies": {
+    "drawille": "^1.0.0"
+  }
+}
