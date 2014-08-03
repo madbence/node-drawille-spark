@@ -1,6 +1,6 @@
 {
   "name": "drawille-spark",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Sparkline clone using drawille",
   "main": "index.js",
   "repository": {
