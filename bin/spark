@@ -31,7 +31,6 @@ if(numbers.length) {
   });
   process.stdin.on('end', function() {
     var numbers = parse(data.split(/\s+/));
-    console.log(numbers);
     process.stdout.write(spark(numbers, lines) + '\n');
   });
 }
