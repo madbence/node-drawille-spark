@@ -34,6 +34,8 @@ $ echo 0 30 55 80 33 150 | spark --lines 2
 ⣰⣿⣾
 ```
 
+![sample](sample.png)
+
 ## API
 
 ### spark(numbers[, lines])
